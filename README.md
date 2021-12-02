@@ -1,2 +1,2 @@
 # test-omar
-test-sb-takeover
+test subdomain takeover Vend
